@@ -1,27 +1,24 @@
 #include<iostream>
-#include<map>
+#include<unordered_map>
 using namespace std;
 
 int main() {
 	ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
+	cin.tie(0);
 
-	map<int, int> ms;
+	unordered_map<int, int> map;
 
-	int N;
-	cin >> N;
-	while (N-- != 0) {
-		int x;
+	int n, m, x, y;
+
+	cin >> n;
+	while (n-- != 0) {
 		cin >> x;
-		ms.insert(x);
+		map[x]++;
 	}
 
-	int M;
-	cin >> M;
-	while (M-- != 0) {
-		int y;
+	cin >> m;
+	while (m-- != 0) {
 		cin >> y;
-
-		cout << ms.count(y) << " ";
+		cout << map[y] << " ";
 	}
 }
