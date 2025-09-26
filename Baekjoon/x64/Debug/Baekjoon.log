@@ -1,3 +1,1 @@
-﻿  9437.cpp
-C:\Users\LG\source\repos\Baekjoon\Baekjoon\9437.cpp(25,3): warning C4858: 반환 값을 삭제하는 중: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
-  Baekjoon.vcxproj -> C:\Users\LG\source\repos\Baekjoon\x64\Debug\Baekjoon.exe
+﻿  Baekjoon.vcxproj -> C:\Users\LG\source\repos\Baekjoon\x64\Debug\Baekjoon.exe
