@@ -1,8 +1,2 @@
-﻿  2798.cpp
-C:\Users\LG\source\repos\Baekjoon\Baekjoon\2798.cpp(8,10): error C2131: 식이 상수로 계산되지 않았습니다.
-      C:\Users\LG\source\repos\Baekjoon\Baekjoon\2798.cpp(8,10):
-      수명을 벗어난 변수 읽기로 인해 오류가 발생했습니다.
-      C:\Users\LG\source\repos\Baekjoon\Baekjoon\2798.cpp(8,10):
-      'n' 사용량 참조
-  
-C:\Users\LG\source\repos\Baekjoon\Baekjoon\2798.cpp(12,7): warning C4552: '>>': 식의 결과가 사용되지 않습니다.
+﻿  1181.cpp
+  Baekjoon.vcxproj -> C:\Users\LG\source\repos\Baekjoon\x64\Debug\Baekjoon.exe
